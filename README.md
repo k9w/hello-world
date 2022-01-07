@@ -26,8 +26,8 @@ more of our work at:_
 
 ## Setup/Installation Requirements
 
-* _Clone the repo._
-* _Open the home page in browser._
+* _Visit the live site at: https://k9w.github.io/hello-world_
+* _Or clone the repo and open the home page in browser._
 
 
 ## Known Bugs
