@@ -2,7 +2,7 @@
 
 #### By _**Kevin Williams**_ and _**Jessica Baker**_
 
-#### _Blogging Site_
+#### _Hello World_
 
 
 ## Technologies Used
