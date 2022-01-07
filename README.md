@@ -13,12 +13,13 @@
 
 ## Description
 
-_This is our first HTML page while students at
-[Epicodus](https://epicodus.com). The README and LICENSE were added a
-few days after we worked [the assignment for this
+_This is the first HTML page we made as students at
+[Epicodus](https://epicodus.com). We worked [the assignment for this
 page](https://www.learnhowtoprogram.com/introduction-to-programming-part-time-react-track/git-html-and-css/practice-tracking-changes-with-git)
-from [our curriculum](https://learnhowtoprogram.com). You can find
-more of our work at:_
+from [our curriculum](https://learnhowtoprogram.com) on Monday
+January 2022. The index.html, README, LICENSE, and Github Pages
+deployment were added later that week. You can find more of our work
+at:_
 
 * https://github.com/k9w
 * https://github.com/jessb-epicodus
