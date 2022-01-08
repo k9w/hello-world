@@ -17,7 +17,7 @@ _This is the first HTML page we made as students at
 [Epicodus](https://epicodus.com). We worked [the assignment for this
 page](https://www.learnhowtoprogram.com/introduction-to-programming-part-time-react-track/git-html-and-css/practice-tracking-changes-with-git)
 from [our curriculum](https://learnhowtoprogram.com) on Monday
-January 2022. The index.html, README, LICENSE, and Github Pages
+January 3rd 2022. The index.html, README, LICENSE, and Github Pages
 deployment were added later that week. You can find more of our work
 at:_
 
